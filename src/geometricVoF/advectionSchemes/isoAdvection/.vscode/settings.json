@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "isoAdvection.C": "cpp",
+        "isoAdvectionTemplates.C": "cpp",
+        "GeometricField.C": "cpp",
+        "GeometricBoundaryField.C": "cpp",
+        "OBJstream.C": "cpp",
+        "fvcSimpleReconstruct.C": "cpp",
+        "fvcReconstruct.C": "cpp"
+    }
+}

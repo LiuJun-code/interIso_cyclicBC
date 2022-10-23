@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "/home/local/CSI/jl95muce/openfoam/OpenFOAM-v2012/src/OSspecific/POSIX/lnInclude",
+        "/home/local/CSI/jl95muce/openfoam/OpenFOAM-v2012/src/OpenFOAM/lnInclude",
+        "/home/local/CSI/jl95muce/openfoam/OpenFOAM-v2012/src/dynamicMesh/lnInclude",
+        "/home/local/CSI/jl95muce/openfoam/OpenFOAM-v2012/src/fileFormats/lnInclude",
+        "/home/local/CSI/jl95muce/openfoam/OpenFOAM-v2012/src/finiteVolume/lnInclude",
+        "/home/local/CSI/jl95muce/openfoam/OpenFOAM-v2012/src/meshTools/lnInclude",
+        "/home/local/CSI/jl95muce/openfoam/OpenFOAM-v2012/src/sampling/lnInclude",
+        "/home/local/CSI/jl95muce/openfoam/OpenFOAM-v2012/src/surfMesh/lnInclude",
+        "/home/local/CSI/jl95muce/openfoam/OpenFOAM-v2012/src/transportModels/interfaceProperties/lnInclude",
+        "/home/local/CSI/jl95muce/openfoam/OpenFOAM-v2012/src/transportModels/twoPhaseProperties/lnInclude",
+        "./**"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++14",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
